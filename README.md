@@ -1,15 +1,16 @@
 # ML_Predictive_Model
-This project demonstrates the implementation of Multiple Linear Regression from scratch using Python. Instead of relying on libraries like sklearn, this project builds the predictive model step by step, covering:
+A Machine Learning project implementing Multiple Linear Regression using Python (NumPy, Pandas, scikit-learn, Matplotlib). This model predicts numerical outcomes based on input features by leveraging data preprocessing, feature selection, and model evaluation (R² Score, MSE).
 
-✅ Data Preprocessing
-✅ Feature Selection
-✅ Mathematical Formulation of Linear Regression
-✅ Model Training using Gradient Descent
-✅ Model Evaluation with Performance Metrics
+Features
+
+✅ Data Preprocessing & Feature Engineering
+✅ Model Training using scikit-learn
+✅ Performance Evaluation with R² Score & MSE
+✅ Data Visualization using Matplotlib
 
 Technologies Used
-	•	Python (NumPy, Pandas, Matplotlib)
-	•	Machine Learning Concepts (Gradient Descent, Loss Function, Predictions)
+•	Python (NumPy, Pandas, Matplotlib)
+•	Machine Learning Concepts (Gradient Descent, Loss Function, Predictions)
 
 Key Highlights
 
